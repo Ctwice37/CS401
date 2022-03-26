@@ -1,7 +1,7 @@
 package LectureCode.src.lesson2.lecture.bidir.onetoone.extpackage;
 
 import LectureCode.src.lesson2.lecture.bidir.onetoone.Customer;
-import lesson2.lecture.bidir.onetoone.Item;
+import LectureCode.src.lesson2.lecture.bidir.onetoone.Item;
 import LectureCode.src.lesson2.lecture.bidir.onetoone.ShoppingCart;
 
 public class Main {

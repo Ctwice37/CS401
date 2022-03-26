@@ -1,6 +1,6 @@
 package LectureCode.src.lesson2.lecture.unidirectional.oneone_restrict.extpackage;
 
-import lesson2.lecture.unidirectional.oneone_restrict.*;
+import LectureCode.src.lesson2.lecture.unidirectional.oneone_restrict.*;
 
 public class Main {
 	public static void main(String[] args) {

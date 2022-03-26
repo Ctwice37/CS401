@@ -1,6 +1,6 @@
 package LectureCode.src.midterm.subclassprob.packageB;
 
-import midterm.subclassprob.packageA.ClassA;
+import LectureCode.src.midterm.subclassprob.packageA.ClassA;
 
 public class Client {
 	@SuppressWarnings("unused")

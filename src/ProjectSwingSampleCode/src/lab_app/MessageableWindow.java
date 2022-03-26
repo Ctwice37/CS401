@@ -1,6 +1,6 @@
 package ProjectSwingSampleCode.src.lab_app;
 
-import static lab_app.BookClub.statusBar;
+import static ProjectSwingSampleCode.src.lab_app.BookClub.statusBar;
 
 
 public interface MessageableWindow {

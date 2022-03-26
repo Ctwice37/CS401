@@ -1,7 +1,7 @@
 package LectureCode.src.lesson1.lecture.ooexample;
 import java.util.Scanner;
 
-import lesson1.lecture.ooexample.employeeinfo.*;
+import LectureCode.src.lesson1.lecture.ooexample.employeeinfo.*;
 
 public class Main {
 

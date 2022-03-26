@@ -3,8 +3,8 @@ package LectureCode.src.lesson5.lecture.factorymethods2.rulesets;
 import java.awt.Component;
 import java.util.HashMap;
 
-import lesson5.lecture.factorymethods2.gui.AddrWindow;
-import lesson5.lecture.factorymethods2.gui.ProfileWindow;
+import LectureCode.src.lesson5.lecture.factorymethods2.gui.AddrWindow;
+import LectureCode.src.lesson5.lecture.factorymethods2.gui.ProfileWindow;
 
 
 final public class RuleSetFactory {

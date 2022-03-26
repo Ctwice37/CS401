@@ -1,6 +1,6 @@
 package LectureCode.src.lesson2.lecture.unidirectional.oneToZeroOneEasy_extpackage;
 
-import lesson2.lecture.unidirectional.oneToZeroOneEasy.*;
+import LectureCode.src.lesson2.lecture.unidirectional.oneToZeroOneEasy.*;
 
 public class Main {
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@ package LectureCode.src.lesson5.lecture.factorymethods3.business;
 
 import java.util.List;
 
-import lesson5.lecture.factorymethods3.business.dao.AddressDao;
+import LectureCode.src.lesson5.lecture.factorymethods3.business.dao.AddressDao;
 
 public class Main {
 

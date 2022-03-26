@@ -3,7 +3,7 @@ package LectureCode.src.lesson2.lecture.unidirectional.onemany.extpackage;
 import java.time.LocalDate;
 
 import LectureCode.src.lesson2.lecture.unidirectional.onemany.Customer;
-import lesson2.lecture.unidirectional.onemany.*;
+import LectureCode.src.lesson2.lecture.unidirectional.onemany.*;
 
 public class Main {
 	public static void main(String[] args) {

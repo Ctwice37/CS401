@@ -1,7 +1,7 @@
 package LectureCode.src.lesson5.lecture.factorymethods5.triangle.otherpackage;
 import java.util.Arrays;
 
-import lesson5.lecture.factorymethods5.triangle.*;
+import LectureCode.src.lesson5.lecture.factorymethods5.triangle.*;
 public class Main {
 
 	public static void main(String[] args) {

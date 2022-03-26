@@ -2,7 +2,7 @@ package LectureCode.src.lesson5.lecture.factorymethods2.rulesets;
 
 import java.awt.Component;
 
-import lesson5.lecture.factorymethods2.gui.AddrWindow;
+import LectureCode.src.lesson5.lecture.factorymethods2.gui.AddrWindow;
 
 
 

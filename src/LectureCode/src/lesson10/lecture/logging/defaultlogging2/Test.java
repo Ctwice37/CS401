@@ -2,7 +2,7 @@ package LectureCode.src.lesson10.lecture.logging.defaultlogging2;
 
 import java.util.logging.Logger;
 
-import lesson10.lecture.logging.defaultlogging.LogSetup;
+import LectureCode.src.lesson10.lecture.logging.defaultlogging.LogSetup;
 
 /** 
  * This test will work provided logsetup.jar was added
