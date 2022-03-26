@@ -1,4 +1,4 @@
-package lesson7.lecture.hashcode.bad2;
+package LectureCode.src.lesson7.lecture.hashcode.bad2;
 
 public class Pair {
 	String first;

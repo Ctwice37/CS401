@@ -1,4 +1,4 @@
-package lesson10.lecture.exceptions.connectnew;
+package LectureCode.src.lesson10.lecture.exceptions.connectnew;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

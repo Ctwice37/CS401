@@ -1,4 +1,4 @@
-package lesson9.lecture.generate;
+package LectureCode.src.lesson9.lecture.generate;
 import java.util.Random;
 import java.util.stream.*;
 public class Examples {

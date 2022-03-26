@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods2.rulesets;
+package LectureCode.src.lesson5.lecture.factorymethods2.rulesets;
 
 import java.awt.Component;
 

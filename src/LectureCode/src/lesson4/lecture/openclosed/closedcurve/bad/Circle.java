@@ -1,4 +1,4 @@
-package lesson4.lecture.openclosed.closedcurve.bad;
+package LectureCode.src.lesson4.lecture.openclosed.closedcurve.bad;
 
 public final class Circle  {
 	private final double radius;

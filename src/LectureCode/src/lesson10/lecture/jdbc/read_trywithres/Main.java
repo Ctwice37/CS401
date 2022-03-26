@@ -1,4 +1,4 @@
-package lesson10.lecture.jdbc.read_trywithres;
+package LectureCode.src.lesson10.lecture.jdbc.read_trywithres;
 
 import java.sql.SQLException;
 

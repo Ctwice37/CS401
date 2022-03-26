@@ -1,4 +1,4 @@
-package lab_app;
+package ProjectSwingSampleCode.src.lab_app;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

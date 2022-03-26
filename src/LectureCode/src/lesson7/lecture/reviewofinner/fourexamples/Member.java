@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.fourexamples;
+package LectureCode.src.lesson7.lecture.reviewofinner.fourexamples;
 
 public class Member {
 	private String name = "Joe";

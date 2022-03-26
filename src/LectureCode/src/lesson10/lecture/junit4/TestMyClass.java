@@ -1,4 +1,4 @@
-package lesson10.lecture.junit4;
+package LectureCode.src.lesson10.lecture.junit4;
 
 import static org.junit.Assert.*;
 

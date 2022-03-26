@@ -1,4 +1,4 @@
-package lesson7.lecture.hashcode.bad3;
+package LectureCode.src.lesson7.lecture.hashcode.bad3;
 
 import java.util.HashSet;
 import java.util.Set;

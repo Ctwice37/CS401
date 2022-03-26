@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethodrules.inherit;
+package LectureCode.src.lesson7.lecture.defaultmethodrules.inherit;
 
 public interface Intface  {
 	default void myMethod(int x) {

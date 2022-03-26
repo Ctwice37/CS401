@@ -1,4 +1,4 @@
-package techniques;
+package ProjectSwingSampleCode.src.techniques;
 
 import java.awt.Color;
 import java.awt.Font;

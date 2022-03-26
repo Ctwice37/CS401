@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.singletons;
+package LectureCode.src.lesson7.lecture.reviewofinner.singletons;
 
 /*
  * Sol 3

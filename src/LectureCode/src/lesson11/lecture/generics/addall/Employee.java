@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.addall;
+package LectureCode.src.lesson11.lecture.generics.addall;
 
 public class Employee {
 	String name;

@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethodrules.intfaceclash;
+package LectureCode.src.lesson7.lecture.defaultmethodrules.intfaceclash;
 
 public interface Intface extends SupInt1, SupInt2 {
 	//clash must be resolved, either by making myMethod abstract

@@ -1,4 +1,4 @@
-package lesson7.exercise_1;
+package InClassExercises.src.lesson7.exercise_1;
 
 /**
  * This class represents a array-list of Strings.

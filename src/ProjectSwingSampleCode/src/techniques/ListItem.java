@@ -1,4 +1,4 @@
-package techniques;
+package ProjectSwingSampleCode.src.techniques;
 
 public class ListItem {
 	private String itemName;

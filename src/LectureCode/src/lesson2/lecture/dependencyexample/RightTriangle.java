@@ -1,4 +1,4 @@
-package lesson2.lecture.dependencyexample;
+package LectureCode.src.lesson2.lecture.dependencyexample;
 
 /* Example of a dependency relationship from RightTriangle
  * to java.lang.Math

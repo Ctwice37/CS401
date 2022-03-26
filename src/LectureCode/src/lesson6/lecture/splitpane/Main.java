@@ -1,4 +1,4 @@
-package lesson6.lecture.splitpane;
+package LectureCode.src.lesson6.lecture.splitpane;
 
 import java.awt.Component;
 import java.awt.EventQueue;

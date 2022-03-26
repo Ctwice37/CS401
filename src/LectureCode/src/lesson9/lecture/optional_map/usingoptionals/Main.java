@@ -1,4 +1,4 @@
-package lesson9.lecture.optional_map.usingoptionals;
+package LectureCode.src.lesson9.lecture.optional_map.usingoptionals;
 import java.util.*;
 public class Main {
 	private static List<Person> persons;

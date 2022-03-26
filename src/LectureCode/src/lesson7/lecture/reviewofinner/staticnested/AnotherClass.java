@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.staticnested;
+package LectureCode.src.lesson7.lecture.reviewofinner.staticnested;
 
 class AnotherClass {
 	public static void main(String[] args){

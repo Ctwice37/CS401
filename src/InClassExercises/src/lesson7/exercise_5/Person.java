@@ -1,4 +1,4 @@
-package lesson7.exercise_5;
+package InClassExercises.src.lesson7.exercise_5;
 import java.util.*;
 
 //Why doesn't this equals method work?

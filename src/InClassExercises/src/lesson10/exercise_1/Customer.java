@@ -1,4 +1,4 @@
-package lesson10.exercise_1;
+package InClassExercises.src.lesson10.exercise_1;
 
 public class Customer {
 	private String custId;

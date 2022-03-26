@@ -1,4 +1,4 @@
-package lesson10.exercise_4;
+package InClassExercises.src.lesson10.exercise_4;
 
 //Show the methods are not threadsafe.
 //Then modify so that they are threadsafe.

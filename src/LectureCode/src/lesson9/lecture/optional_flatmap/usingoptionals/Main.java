@@ -1,4 +1,4 @@
-package lesson9.lecture.optional_flatmap.usingoptionals;
+package LectureCode.src.lesson9.lecture.optional_flatmap.usingoptionals;
 import java.util.*;
 /** 
  * In a large organization, there was a random drawing that award several Employees

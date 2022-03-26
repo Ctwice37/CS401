@@ -1,4 +1,4 @@
-package lesson3.lecture.polymorphism2;
+package LectureCode.src.lesson3.lecture.polymorphism2;
 
 public abstract class StaffPerson {
 	abstract public double computeStipend();

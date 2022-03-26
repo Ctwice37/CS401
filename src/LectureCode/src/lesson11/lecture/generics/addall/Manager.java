@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.addall;
+package LectureCode.src.lesson11.lecture.generics.addall;
 
 class Manager extends Employee {
 	public Manager(String name, int salary) {

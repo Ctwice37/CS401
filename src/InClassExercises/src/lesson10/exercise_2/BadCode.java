@@ -1,4 +1,4 @@
-package lesson10.exercise_2;
+package InClassExercises.src.lesson10.exercise_2;
 
 @BugReport(assignedTo="Corazza", severity=1)
 public class BadCode {

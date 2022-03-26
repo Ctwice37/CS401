@@ -1,4 +1,4 @@
-package lesson9.exercise_4;
+package InClassExercises.src.lesson9.exercise_4;
 
 import java.util.stream.Stream;
 

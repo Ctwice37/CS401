@@ -1,4 +1,4 @@
-package lesson10.lecture.exceptions2;
+package LectureCode.src.lesson10.lecture.exceptions2;
 
 import java.io.File;
 import java.util.List;

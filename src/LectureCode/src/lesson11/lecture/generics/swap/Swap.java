@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.swap;
+package LectureCode.src.lesson11.lecture.generics.swap;
 
 import java.util.ArrayList;
 import java.util.List;

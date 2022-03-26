@@ -1,4 +1,4 @@
-package lesson1.lecture.ooexample.employeeinfo;
+package LectureCode.src.lesson1.lecture.ooexample.employeeinfo;
 
 public class SavingsAccount extends Account {
 	private final double MONTHLY_INTEREST_RATE = 0.25;

@@ -1,4 +1,4 @@
-package lesson7.lecture.singletoninherit.java8;
+package LectureCode.src.lesson7.lecture.singletoninherit.java8;
 
 public class AntiqueHome implements House {
 	private int numBedrooms;

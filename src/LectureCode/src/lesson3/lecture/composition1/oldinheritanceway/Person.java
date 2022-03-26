@@ -1,4 +1,4 @@
-package lesson3.lecture.composition1.oldinheritanceway;
+package LectureCode.src.lesson3.lecture.composition1.oldinheritanceway;
 
 
 public class Person {

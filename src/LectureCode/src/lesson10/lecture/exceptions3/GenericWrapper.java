@@ -1,6 +1,6 @@
-package lesson10.lecture.exceptions3;
+package LectureCode.src.lesson10.lecture.exceptions3;
 
-import static lesson10.lecture.exceptions3.FunctionWithException.helper;
+import static LectureCode.src.lesson10.lecture.exceptions3.FunctionWithException.helper;
 
 import java.io.File;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods2.gui;
+package LectureCode.src.lesson5.lecture.factorymethods2.gui;
 
 import java.awt.BorderLayout;
 import java.awt.Component;
@@ -17,9 +17,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import lesson5.lecture.factorymethods2.rulesets.RuleException;
-import lesson5.lecture.factorymethods2.rulesets.RuleSet;
-import lesson5.lecture.factorymethods2.rulesets.RuleSetFactory;
+import LectureCode.src.lesson5.lecture.factorymethods2.rulesets.RuleException;
+import LectureCode.src.lesson5.lecture.factorymethods2.rulesets.RuleSet;
+import LectureCode.src.lesson5.lecture.factorymethods2.rulesets.RuleSetFactory;
 
 public class AddrWindow extends JFrame {
 	private JPanel topPanel;

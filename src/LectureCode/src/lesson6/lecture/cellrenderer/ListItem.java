@@ -1,4 +1,4 @@
-package lesson6.lecture.cellrenderer;
+package LectureCode.src.lesson6.lecture.cellrenderer;
 
 public class ListItem {
 	private String itemName;

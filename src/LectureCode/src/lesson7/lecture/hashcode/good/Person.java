@@ -1,4 +1,4 @@
-package lesson7.lecture.hashcode.good;
+package LectureCode.src.lesson7.lecture.hashcode.good;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

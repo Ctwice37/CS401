@@ -1,4 +1,4 @@
-package lesson8.lecture.lambdaexamples.bifunction;
+package LectureCode.src.lesson8.lecture.lambdaexamples.bifunction;
 
 import java.util.function.BiFunction;
 

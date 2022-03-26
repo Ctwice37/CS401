@@ -1,4 +1,4 @@
-package lesson7.lecture.overrideequals.instanceofstrategy2;
+package LectureCode.src.lesson7.lecture.overrideequals.instanceofstrategy2;
 
 public class PersonWithJob extends Person {
 	private double salary;

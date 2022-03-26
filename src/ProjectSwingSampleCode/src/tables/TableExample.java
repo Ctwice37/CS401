@@ -1,4 +1,4 @@
-package tables;
+package ProjectSwingSampleCode.src.tables;
 
 import java.awt.BorderLayout;
 import java.awt.Component;

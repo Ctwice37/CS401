@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.onemany_alt.extpackage;
+package LectureCode.src.lesson2.lecture.unidirectional.onemany_alt.extpackage;
 
 import java.time.LocalDate;
 import lesson2.lecture.unidirectional.onemany_alt.*;

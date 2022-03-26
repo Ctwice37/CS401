@@ -1,4 +1,4 @@
-package lesson7.lecture.eq;
+package LectureCode.src.lesson7.lecture.eq;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package lesson7.lecture.equals.simple;
+package LectureCode.src.lesson7.lecture.equals.simple;
 
 class Person {
 	private String name;

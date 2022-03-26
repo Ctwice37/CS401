@@ -1,4 +1,4 @@
-package lesson8.lecture.filter;
+package LectureCode.src.lesson8.lecture.filter;
 
 import java.util.ArrayList;
 import java.util.List;

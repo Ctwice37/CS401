@@ -1,4 +1,4 @@
-package lesson9.lecture.optional_flatmap.usingoptionals.oldway;
+package LectureCode.src.lesson9.lecture.optional_flatmap.usingoptionals.oldway;
 
 public class Person {
 	private String name;

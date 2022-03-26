@@ -1,4 +1,4 @@
-package lesson6.lecture.cellrenderer;
+package LectureCode.src.lesson6.lecture.cellrenderer;
 
 import java.awt.Color;
 import java.awt.Font;

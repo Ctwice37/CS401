@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.onemany;
+package LectureCode.src.lesson2.lecture.unidirectional.onemany;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

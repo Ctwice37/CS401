@@ -1,4 +1,4 @@
-package lesson7.lecture.singletoninherit.usual;
+package LectureCode.src.lesson7.lecture.singletoninherit.usual;
 
 public class AntiqueHome extends House {
 	private int numAntiqueWindows;

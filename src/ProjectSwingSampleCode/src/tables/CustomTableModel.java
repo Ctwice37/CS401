@@ -1,4 +1,4 @@
-package tables;
+package ProjectSwingSampleCode.src.tables;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

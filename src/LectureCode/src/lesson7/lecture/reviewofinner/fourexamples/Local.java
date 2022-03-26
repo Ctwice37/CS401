@@ -1,6 +1,6 @@
-package lesson7.lecture.reviewofinner.fourexamples;
+package LectureCode.src.lesson7.lecture.reviewofinner.fourexamples;
 
-import lesson7.lecture.reviewofinner.fourexamples.Member.Pair;
+import LectureCode.src.lesson7.lecture.reviewofinner.fourexamples.Member.Pair;
 
 public class Local {
 	private String name = "Joe";	

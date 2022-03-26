@@ -1,4 +1,4 @@
-package lesson10.lecture.logging.defaultlogging2;
+package LectureCode.src.lesson10.lecture.logging.defaultlogging2;
 
 import java.util.logging.Logger;
 

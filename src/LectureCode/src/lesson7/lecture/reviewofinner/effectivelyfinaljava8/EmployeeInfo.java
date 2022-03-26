@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.effectivelyfinaljava8;
+package LectureCode.src.lesson7.lecture.reviewofinner.effectivelyfinaljava8;
 
 import java.util.ArrayList;
 import java.util.Collections;

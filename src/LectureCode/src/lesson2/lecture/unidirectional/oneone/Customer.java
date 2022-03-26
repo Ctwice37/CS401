@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneone;
+package LectureCode.src.lesson2.lecture.unidirectional.oneone;
 
 public class Customer {
 	private String name;

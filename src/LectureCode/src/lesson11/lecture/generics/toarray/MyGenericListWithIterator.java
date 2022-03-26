@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.toarray;
+package LectureCode.src.lesson11.lecture.generics.toarray;
 
 import java.util.*;
 import java.util.function.Consumer;

@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.pairexamples;
+package LectureCode.src.lesson11.lecture.generics.pairexamples;
 
 public interface Pair<K, V> {
     public K getKey();

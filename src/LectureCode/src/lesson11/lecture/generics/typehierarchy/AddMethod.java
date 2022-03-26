@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.typehierarchy;
+package LectureCode.src.lesson11.lecture.generics.typehierarchy;
 
 import java.util.*;
 

@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/vsjava8 for more book information.
  ***/
-package lesson10.lecture.exceptions2;
+package LectureCode.src.lesson10.lecture.exceptions2;
 
 import java.util.List;
 import java.util.stream.Collectors;

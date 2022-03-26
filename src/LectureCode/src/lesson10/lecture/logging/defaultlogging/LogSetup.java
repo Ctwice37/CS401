@@ -1,4 +1,4 @@
-package lesson10.lecture.logging.defaultlogging;
+package LectureCode.src.lesson10.lecture.logging.defaultlogging;
 
 import java.io.File;
 import java.io.IOException;

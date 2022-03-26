@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods6.studreport;
+package LectureCode.src.lesson5.lecture.factorymethods6.studreport;
 
 //Outside of the studreport package, GradeReport is immutable 
 //Immutability depends on the fact that Student is also immutable

@@ -1,4 +1,4 @@
-package lesson7.lecture.interfacestatic;
+package LectureCode.src.lesson7.lecture.interfacestatic;
 
 import java.util.ArrayList;
 import java.util.List;

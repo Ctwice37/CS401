@@ -1,4 +1,4 @@
-package lesson7.lecture.interfacestatic_clash;
+package LectureCode.src.lesson7.lecture.interfacestatic_clash;
 
 public class Impl implements Sup1, Sup2 {
 	

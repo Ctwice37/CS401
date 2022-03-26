@@ -1,4 +1,4 @@
-package lesson7.lecture.overrideequals.sameclassesstrategy;
+package LectureCode.src.lesson7.lecture.overrideequals.sameclassesstrategy;
 
 /**
  * CORRECT: Same classes strategy for superclass and subclass.

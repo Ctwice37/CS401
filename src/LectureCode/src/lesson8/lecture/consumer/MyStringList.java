@@ -1,4 +1,4 @@
-package lesson8.lecture.consumer;
+package LectureCode.src.lesson8.lecture.consumer;
 
 import java.util.*;
 

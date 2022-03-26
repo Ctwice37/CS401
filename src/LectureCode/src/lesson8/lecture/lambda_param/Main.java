@@ -1,4 +1,4 @@
-package lesson8.lecture.lambda_param;
+package LectureCode.src.lesson8.lecture.lambda_param;
 import java.util.function.*;
 public class Main {
 	int y = 7;

@@ -1,4 +1,4 @@
-package lesson8.exercise_1;
+package InClassExercises.src.lesson8.exercise_1;
 
 public class Employee {
 	String name;

@@ -1,4 +1,4 @@
-package lesson4.lecture.staticinherit.fifth;
+package LectureCode.src.lesson4.lecture.staticinherit.fifth;
 
 //Shows why compiler is able to bind static methods 
 //It finds the first ancestor in the inheritance

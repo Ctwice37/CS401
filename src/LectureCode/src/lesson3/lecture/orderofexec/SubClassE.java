@@ -1,4 +1,4 @@
-package lesson3.lecture.orderofexec;
+package LectureCode.src.lesson3.lecture.orderofexec;
 
 public class SubClassE extends ClassE {
 	static int subInt = subIntMethod();

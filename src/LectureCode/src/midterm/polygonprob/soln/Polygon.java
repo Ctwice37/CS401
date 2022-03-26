@@ -1,4 +1,4 @@
-package midterm.polygonprob.soln;
+package LectureCode.src.midterm.polygonprob.soln;
 
 public abstract class Polygon {
 	public double computeLength() {

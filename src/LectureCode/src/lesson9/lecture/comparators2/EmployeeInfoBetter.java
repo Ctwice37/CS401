@@ -1,4 +1,4 @@
-package lesson9.lecture.comparators2;
+package LectureCode.src.lesson9.lecture.comparators2;
 
 import java.util.ArrayList;
 import java.util.Collections;

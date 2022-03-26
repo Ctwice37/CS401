@@ -1,4 +1,4 @@
-package midterm.subclassprob.packageB;
+package LectureCode.src.midterm.subclassprob.packageB;
 
 import midterm.subclassprob.packageA.ClassA;
 

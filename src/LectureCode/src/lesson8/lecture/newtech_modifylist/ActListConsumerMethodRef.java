@@ -1,4 +1,4 @@
-package lesson8.lecture.newtech_modifylist;
+package LectureCode.src.lesson8.lecture.newtech_modifylist;
 
 import java.util.Arrays;
 import java.util.List;

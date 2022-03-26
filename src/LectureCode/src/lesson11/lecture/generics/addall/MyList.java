@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.addall;
+package LectureCode.src.lesson11.lecture.generics.addall;
 
 public interface MyList<E> {
 	public void add(E e);

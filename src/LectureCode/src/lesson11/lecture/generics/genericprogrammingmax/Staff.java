@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.genericprogrammingmax;
+package LectureCode.src.lesson11.lecture.generics.genericprogrammingmax;
 
 public class Staff {
 	protected String name;

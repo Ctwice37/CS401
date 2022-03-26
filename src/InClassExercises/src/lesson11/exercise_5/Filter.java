@@ -1,4 +1,4 @@
-package lesson11.exercise_5;
+package InClassExercises.src.lesson11.exercise_5;
 import java.util.*;
 import java.util.stream.Collectors;
 // Stream<T> filter(Predicate<? super T> predicate)

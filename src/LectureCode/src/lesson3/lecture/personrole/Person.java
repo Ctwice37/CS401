@@ -1,4 +1,4 @@
-package lesson3.lecture.personrole;
+package LectureCode.src.lesson3.lecture.personrole;
 import java.util.*;
 public class Person {
 	private List<PersonRole> roles = new ArrayList<>();

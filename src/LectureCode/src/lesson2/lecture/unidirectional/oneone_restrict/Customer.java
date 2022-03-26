@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneone_restrict;
+package LectureCode.src.lesson2.lecture.unidirectional.oneone_restrict;
 
 public class Customer {
 	private String name;

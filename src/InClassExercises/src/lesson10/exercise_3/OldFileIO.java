@@ -1,4 +1,4 @@
-package lesson10.exercise_3;
+package InClassExercises.src.lesson10.exercise_3;
 
 import java.io.BufferedReader;
 import java.io.File;

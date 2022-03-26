@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.genericprogrammingmax;
+package LectureCode.src.lesson11.lecture.generics.genericprogrammingmax;
 
 class Manager extends Employee {
 	public Manager(String name, double salary) {

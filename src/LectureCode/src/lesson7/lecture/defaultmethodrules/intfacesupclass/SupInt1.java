@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethodrules.intfacesupclass;
+package LectureCode.src.lesson7.lecture.defaultmethodrules.intfacesupclass;
 
 public interface SupInt1 {
 	default void myMethod(int x) {

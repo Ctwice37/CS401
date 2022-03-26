@@ -1,4 +1,4 @@
-package midterm.bookcopyproblem;
+package LectureCode.src.midterm.bookcopyproblem;
 
 @SuppressWarnings("unused")
 public class BookCopy {

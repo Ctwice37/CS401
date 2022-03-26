@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneToZeroOneEasy;
+package LectureCode.src.lesson2.lecture.unidirectional.oneToZeroOneEasy;
 
 public class Item {
 	String name;

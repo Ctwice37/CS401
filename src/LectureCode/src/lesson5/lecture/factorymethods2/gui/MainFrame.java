@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods2.gui;
+package LectureCode.src.lesson5.lecture.factorymethods2.gui;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

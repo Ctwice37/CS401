@@ -1,4 +1,4 @@
-package lesson7.lecture.overrideequals.composition;
+package LectureCode.src.lesson7.lecture.overrideequals.composition;
 
 /** 
  * CORRECT: Person and PersonWithJob use equal-classes strategy

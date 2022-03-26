@@ -1,4 +1,4 @@
-package lesson7.lecture.empmanager.useinheritance;
+package LectureCode.src.lesson7.lecture.empmanager.useinheritance;
 
 class Manager extends Employee {
 	public Manager(String name, double salary, int year, int month, int day) {

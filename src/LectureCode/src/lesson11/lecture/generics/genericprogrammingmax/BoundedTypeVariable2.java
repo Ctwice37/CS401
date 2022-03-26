@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.genericprogrammingmax;
+package LectureCode.src.lesson11.lecture.generics.genericprogrammingmax;
 
 import java.time.*;
 import java.time.chrono.ChronoLocalDate;

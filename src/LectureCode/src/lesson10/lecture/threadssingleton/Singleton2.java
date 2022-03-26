@@ -1,4 +1,4 @@
-package lesson10.lecture.threadssingleton;
+package LectureCode.src.lesson10.lecture.threadssingleton;
 
 public class Singleton2 {
 	private static Singleton2 instance;

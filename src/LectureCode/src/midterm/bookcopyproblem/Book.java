@@ -1,4 +1,4 @@
-package midterm.bookcopyproblem;
+package LectureCode.src.midterm.bookcopyproblem;
 
 import java.util.ArrayList;
 import java.util.List;

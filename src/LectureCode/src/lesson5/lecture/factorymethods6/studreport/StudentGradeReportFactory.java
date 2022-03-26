@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods6.studreport;
+package LectureCode.src.lesson5.lecture.factorymethods6.studreport;
 
 /** Typical use: Loading data from database into class model */
 final public class StudentGradeReportFactory {

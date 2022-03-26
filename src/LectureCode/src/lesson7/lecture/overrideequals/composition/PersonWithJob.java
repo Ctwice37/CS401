@@ -1,4 +1,4 @@
-package lesson7.lecture.overrideequals.composition;
+package LectureCode.src.lesson7.lecture.overrideequals.composition;
 
 public class PersonWithJob  {
 	

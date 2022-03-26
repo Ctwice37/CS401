@@ -1,4 +1,4 @@
-package lesson4.lecture.openclosed.closedcurve.good;
+package LectureCode.src.lesson4.lecture.openclosed.closedcurve.good;
 
 public class Test {
 	

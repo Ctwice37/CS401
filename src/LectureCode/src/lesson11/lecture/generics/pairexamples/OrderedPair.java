@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.pairexamples;
+package LectureCode.src.lesson11.lecture.generics.pairexamples;
 
 /** This generic class implements the generic interface Pair<K, V> */
 public class OrderedPair<K, V> implements Pair<K, V> {

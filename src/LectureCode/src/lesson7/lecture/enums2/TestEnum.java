@@ -1,4 +1,4 @@
-package lesson7.lecture.enums2;
+package LectureCode.src.lesson7.lecture.enums2;
 
 /** Shows instances of an enum are instances of a subclass of the enum */
 public class TestEnum  {

@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods4.singleton;
+package LectureCode.src.lesson5.lecture.factorymethods4.singleton;
 
 public class MySingleton {
 	public static int countInstances = 0;

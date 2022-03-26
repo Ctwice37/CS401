@@ -1,4 +1,4 @@
-package lesson9.exercise_3;
+package InClassExercises.src.lesson9.exercise_3;
 
 public class Account {
 	private String ownerName;

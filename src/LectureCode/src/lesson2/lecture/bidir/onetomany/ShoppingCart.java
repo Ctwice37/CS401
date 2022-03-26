@@ -1,4 +1,4 @@
-package lesson2.lecture.bidir.onetomany;
+package LectureCode.src.lesson2.lecture.bidir.onetomany;
 import java.util.*;
 public class ShoppingCart {
 	private Customer owner;

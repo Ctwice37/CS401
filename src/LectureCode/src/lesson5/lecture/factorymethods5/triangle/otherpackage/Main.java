@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods5.triangle.otherpackage;
+package LectureCode.src.lesson5.lecture.factorymethods5.triangle.otherpackage;
 import java.util.Arrays;
 
 import lesson5.lecture.factorymethods5.triangle.*;

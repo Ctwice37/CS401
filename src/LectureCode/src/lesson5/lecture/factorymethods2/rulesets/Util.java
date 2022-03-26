@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods2.rulesets;
+package LectureCode.src.lesson5.lecture.factorymethods2.rulesets;
 
 public class Util {
 	public static boolean isInRangeAtoZ(char c) {

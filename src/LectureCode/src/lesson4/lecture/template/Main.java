@@ -1,4 +1,4 @@
-package lesson4.lecture.template;
+package LectureCode.src.lesson4.lecture.template;
 
 /** Data is obtained in various ways and, in a uniform way, written
  *  to an Excel spreadsheet.

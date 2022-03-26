@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.effectivelyfinaljava7;
+package LectureCode.src.lesson7.lecture.reviewofinner.effectivelyfinaljava7;
 
 public class Employee {
 	String name;

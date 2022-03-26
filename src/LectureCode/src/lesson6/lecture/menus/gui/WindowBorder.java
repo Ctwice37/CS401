@@ -1,4 +1,4 @@
-package lesson6.lecture.menus.gui;
+package LectureCode.src.lesson6.lecture.menus.gui;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Graphics;

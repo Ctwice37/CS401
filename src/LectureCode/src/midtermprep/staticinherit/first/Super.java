@@ -1,4 +1,4 @@
-package midtermprep.staticinherit.first;
+package LectureCode.src.midtermprep.staticinherit.first;
 
 public class Super {
 	static void print() {

@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneone.extpackage;
+package LectureCode.src.lesson2.lecture.unidirectional.oneone.extpackage;
 
 import lesson2.lecture.unidirectional.oneone.*;
 

@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.extend;
+package LectureCode.src.lesson11.lecture.generics.extend;
 
 import java.time.LocalDate;
 

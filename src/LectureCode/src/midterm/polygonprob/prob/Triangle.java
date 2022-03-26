@@ -1,4 +1,4 @@
-package midterm.polygonprob.prob;
+package LectureCode.src.midterm.polygonprob.prob;
 
 @SuppressWarnings("unused")
 public class Triangle extends Polygon {	

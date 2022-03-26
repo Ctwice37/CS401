@@ -1,4 +1,4 @@
-package lesson4.lecture.template;
+package LectureCode.src.lesson4.lecture.template;
 
 public abstract class DataParser {
 	//Template method

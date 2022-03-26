@@ -1,4 +1,4 @@
-package lesson11.exercise_5;
+package InClassExercises.src.lesson11.exercise_5;
 
 class Manager extends Employee {
 	public Manager(String name, double salary, int year, int month, int day) {

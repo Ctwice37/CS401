@@ -1,4 +1,4 @@
-package lesson3.lecture.personrole;
+package LectureCode.src.lesson3.lecture.personrole;
 
 public class Faculty extends PersonRole {
     public static final Faculty INSTANCE = new Faculty();

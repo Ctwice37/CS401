@@ -1,4 +1,4 @@
-package lesson10.lecture.jdbc.testsetup;
+package LectureCode.src.lesson10.lecture.jdbc.testsetup;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

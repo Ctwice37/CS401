@@ -1,4 +1,4 @@
-package lesson9.lecture.streamreuse;
+package LectureCode.src.lesson9.lecture.streamreuse;
 import java.util.List;
 import java.util.function.BiFunction;
 import java.util.stream.Collectors;

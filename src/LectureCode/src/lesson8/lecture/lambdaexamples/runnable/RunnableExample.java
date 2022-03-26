@@ -1,4 +1,4 @@
-package lesson8.lecture.lambdaexamples.runnable;
+package LectureCode.src.lesson8.lecture.lambdaexamples.runnable;
 
 import java.io.*;
 import java.nio.charset.*;

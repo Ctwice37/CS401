@@ -1,4 +1,4 @@
-package lesson1.lecture.ooexample.employeeinfo;
+package LectureCode.src.lesson1.lecture.ooexample.employeeinfo;
 
 
 

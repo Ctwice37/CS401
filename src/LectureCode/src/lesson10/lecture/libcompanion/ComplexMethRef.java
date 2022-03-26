@@ -1,4 +1,4 @@
-package lesson10.lecture.libcompanion;
+package LectureCode.src.lesson10.lecture.libcompanion;
 import java.util.function.*;
 import java.util.*;
 import java.util.stream.Collectors;

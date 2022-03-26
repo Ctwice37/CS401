@@ -1,4 +1,4 @@
-package lesson3.lecture.inheritance2;
+package LectureCode.src.lesson3.lecture.inheritance2;
 
 public class Square extends Rectangle {
 	

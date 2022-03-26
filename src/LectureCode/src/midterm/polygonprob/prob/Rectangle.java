@@ -1,4 +1,4 @@
-package midterm.polygonprob.prob;
+package LectureCode.src.midterm.polygonprob.prob;
 
 public class Rectangle extends Polygon {
 	double length, width;

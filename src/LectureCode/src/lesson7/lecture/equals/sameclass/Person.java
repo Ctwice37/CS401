@@ -1,4 +1,4 @@
-package lesson7.lecture.equals.sameclass;
+package LectureCode.src.lesson7.lecture.equals.sameclass;
 
 class Person {
 	private String name;

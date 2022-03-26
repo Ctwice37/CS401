@@ -1,4 +1,4 @@
-package lesson10.lecture.libcompanion;
+package LectureCode.src.lesson10.lecture.libcompanion;
 import static org.junit.Assert.*;
 
 import java.util.ArrayList;

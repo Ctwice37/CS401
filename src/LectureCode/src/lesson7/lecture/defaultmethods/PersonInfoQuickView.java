@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethods;
+package LectureCode.src.lesson7.lecture.defaultmethods;
 
 public class PersonInfoQuickView implements NameAddress {
 	private String firstName, lastName;

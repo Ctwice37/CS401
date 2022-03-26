@@ -1,4 +1,4 @@
-package lesson7.lecture.empmanager.usecomposition;
+package LectureCode.src.lesson7.lecture.empmanager.usecomposition;
 
 import java.time.LocalDate;
 import java.util.Date;

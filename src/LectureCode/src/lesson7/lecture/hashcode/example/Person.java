@@ -1,4 +1,4 @@
-package lesson7.lecture.hashcode.example;
+package LectureCode.src.lesson7.lecture.hashcode.example;
 
 import java.time.LocalDate;
 import java.util.Objects;

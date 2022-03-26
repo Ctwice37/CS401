@@ -1,4 +1,4 @@
-package lesson7.lecture.interfacestatic;
+package LectureCode.src.lesson7.lecture.interfacestatic;
 
 import java.time.LocalDate;
 import java.util.List;

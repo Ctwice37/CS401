@@ -1,4 +1,4 @@
-package lesson11.exercise_2;
+package InClassExercises.src.lesson11.exercise_2;
 
 public class CountStringOccurrences {
 	public static int countOccurrences(String[] arr, String target) {

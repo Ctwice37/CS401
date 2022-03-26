@@ -1,4 +1,4 @@
-package lesson6.lecture.jlist;
+package LectureCode.src.lesson6.lecture.jlist;
 import java.awt.BorderLayout;
 import java.awt.Component;
 import java.awt.EventQueue;

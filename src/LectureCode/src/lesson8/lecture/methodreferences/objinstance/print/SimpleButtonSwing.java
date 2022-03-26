@@ -1,4 +1,4 @@
-package lesson8.lecture.methodreferences.objinstance.print;
+package LectureCode.src.lesson8.lecture.methodreferences.objinstance.print;
 
 import java.awt.Component;
 import java.awt.EventQueue;

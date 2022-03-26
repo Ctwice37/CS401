@@ -1,4 +1,4 @@
-package lesson7.lecture.tostring;
+package LectureCode.src.lesson7.lecture.tostring;
 
 /** 
  * Illustrates default behavior of the toString method.

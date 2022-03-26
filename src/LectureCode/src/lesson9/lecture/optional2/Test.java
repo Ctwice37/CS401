@@ -1,4 +1,4 @@
-package lesson9.lecture.optional2;
+package LectureCode.src.lesson9.lecture.optional2;
 import java.util.*;
 import java.util.stream.Stream;
 public class Test {

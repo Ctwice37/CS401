@@ -1,4 +1,4 @@
-package lesson3.lecture.composition2;
+package LectureCode.src.lesson3.lecture.composition2;
 
 import java.util.*;
 

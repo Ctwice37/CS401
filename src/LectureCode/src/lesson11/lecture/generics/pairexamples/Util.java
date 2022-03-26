@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.pairexamples;
+package LectureCode.src.lesson11.lecture.generics.pairexamples;
 
 /** Example of syntax for a generic method */
 public class Util {

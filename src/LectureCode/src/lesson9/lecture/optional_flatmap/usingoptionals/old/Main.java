@@ -1,4 +1,4 @@
-package lesson9.lecture.optional_flatmap.usingoptionals.old;
+package LectureCode.src.lesson9.lecture.optional_flatmap.usingoptionals.old;
 import java.util.*;
 public class Main {
 	private static List<Optional<Person>> persons;

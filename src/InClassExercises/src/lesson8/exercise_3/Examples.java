@@ -1,4 +1,4 @@
-package lesson8.exercise_3;
+package InClassExercises.src.lesson8.exercise_3;
 import java.util.function.Function;
 public class Examples {
 	

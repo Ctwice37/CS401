@@ -1,4 +1,4 @@
-package lesson3.lecture.inheritance4;
+package LectureCode.src.lesson3.lecture.inheritance4;
 
 /* A highly-secure version of classB in which
  * input arguments are validated before being used

@@ -1,11 +1,11 @@
-package lesson5.lecture.factorymethods6;
+package LectureCode.src.lesson5.lecture.factorymethods6;
 import java.util.*;
 
-import lesson5.lecture.factorymethods6.otherpackage.DataRecord;
-import lesson5.lecture.factorymethods6.otherpackage.Database;
-import lesson5.lecture.factorymethods6.studreport.GradeReport;
-import lesson5.lecture.factorymethods6.studreport.StudentAndReport;
-import lesson5.lecture.factorymethods6.studreport.StudentGradeReportFactory;
+import LectureCode.src.lesson5.lecture.factorymethods6.otherpackage.DataRecord;
+import LectureCode.src.lesson5.lecture.factorymethods6.otherpackage.Database;
+import LectureCode.src.lesson5.lecture.factorymethods6.studreport.GradeReport;
+import LectureCode.src.lesson5.lecture.factorymethods6.studreport.StudentAndReport;
+import LectureCode.src.lesson5.lecture.factorymethods6.studreport.StudentGradeReportFactory;
 
 
 public class Main {

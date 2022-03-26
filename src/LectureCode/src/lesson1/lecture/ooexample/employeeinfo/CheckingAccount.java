@@ -1,4 +1,4 @@
-package lesson1.lecture.ooexample.employeeinfo;
+package LectureCode.src.lesson1.lecture.ooexample.employeeinfo;
 
 public class CheckingAccount extends Account {
 	private final double MONTHLY_SERVICE_CHARGE = 5.00;

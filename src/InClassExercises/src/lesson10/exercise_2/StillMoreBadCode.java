@@ -1,4 +1,4 @@
-package lesson10.exercise_2;
+package InClassExercises.src.lesson10.exercise_2;
 
 @BugReport(assignedTo = "??") //, severity = ?)
 public class StillMoreBadCode {

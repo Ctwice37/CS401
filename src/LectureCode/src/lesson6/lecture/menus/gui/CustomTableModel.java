@@ -1,4 +1,4 @@
-package lesson6.lecture.menus.gui;
+package LectureCode.src.lesson6.lecture.menus.gui;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

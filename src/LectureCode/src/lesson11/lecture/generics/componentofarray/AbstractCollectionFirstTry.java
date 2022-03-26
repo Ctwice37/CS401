@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.componentofarray;
+package LectureCode.src.lesson11.lecture.generics.componentofarray;
 
 import java.util.Collection;
 

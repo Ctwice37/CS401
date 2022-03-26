@@ -1,4 +1,4 @@
-package lesson3.lecture.polymorphism1;
+package LectureCode.src.lesson3.lecture.polymorphism1;
 
 
 class Employee {

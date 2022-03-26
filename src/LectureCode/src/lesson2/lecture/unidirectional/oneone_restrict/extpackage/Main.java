@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneone_restrict.extpackage;
+package LectureCode.src.lesson2.lecture.unidirectional.oneone_restrict.extpackage;
 
 import lesson2.lecture.unidirectional.oneone_restrict.*;
 

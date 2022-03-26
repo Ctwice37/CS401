@@ -1,4 +1,4 @@
-package lesson3.lecture.inheritance0.externalpackage;
+package LectureCode.src.lesson3.lecture.inheritance0.externalpackage;
 
 import lesson3.lecture.inheritance0.Subclass;
 

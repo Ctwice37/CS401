@@ -1,4 +1,4 @@
-package lesson9.exercise_2;
+package InClassExercises.src.lesson9.exercise_2;
 
 import java.util.Arrays;
 import java.util.List;

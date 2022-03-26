@@ -1,4 +1,4 @@
-package lesson10.exercise_2;
+package InClassExercises.src.lesson10.exercise_2;
 
 public class AnnotationInfo {
 	public static void main(String[] args) {

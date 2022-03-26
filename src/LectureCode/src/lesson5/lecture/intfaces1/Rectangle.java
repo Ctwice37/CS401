@@ -1,4 +1,4 @@
-package lesson5.lecture.intfaces1;
+package LectureCode.src.lesson5.lecture.intfaces1;
 
 public class Rectangle {
 	private double length, width;

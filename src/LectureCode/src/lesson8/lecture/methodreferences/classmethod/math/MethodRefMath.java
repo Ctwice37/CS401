@@ -1,4 +1,4 @@
-package lesson8.lecture.methodreferences.classmethod.math;
+package LectureCode.src.lesson8.lecture.methodreferences.classmethod.math;
 
 import java.util.function.BiFunction;
 

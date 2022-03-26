@@ -1,4 +1,4 @@
-package lesson9.lecture.summary_stat;
+package LectureCode.src.lesson9.lecture.summary_stat;
 
 import java.util.*;
 import java.util.stream.*;

@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.countoccurrences;
+package LectureCode.src.lesson11.lecture.generics.countoccurrences;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

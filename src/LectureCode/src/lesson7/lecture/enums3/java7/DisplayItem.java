@@ -1,4 +1,4 @@
-package lesson7.lecture.enums3.java7;
+package LectureCode.src.lesson7.lecture.enums3.java7;
 
 import java.time.LocalDate;
 

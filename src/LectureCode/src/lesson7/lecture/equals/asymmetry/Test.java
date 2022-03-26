@@ -1,4 +1,4 @@
-package lesson7.lecture.equals.asymmetry;
+package LectureCode.src.lesson7.lecture.equals.asymmetry;
 
 public class Test {
 

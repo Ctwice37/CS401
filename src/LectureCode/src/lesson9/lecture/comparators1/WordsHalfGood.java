@@ -1,4 +1,4 @@
-package lesson9.lecture.comparators1;
+package LectureCode.src.lesson9.lecture.comparators1;
 
 import java.util.*;
 import java.util.stream.Collectors;

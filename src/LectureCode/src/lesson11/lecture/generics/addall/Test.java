@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.addall;
+package LectureCode.src.lesson11.lecture.generics.addall;
 import java.util.*;
 public class Test {
 	public static void main(String[] args) {

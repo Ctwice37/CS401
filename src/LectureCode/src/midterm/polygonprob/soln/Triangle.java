@@ -1,4 +1,4 @@
-package midterm.polygonprob.soln;
+package LectureCode.src.midterm.polygonprob.soln;
 
 public class Triangle extends Polygon {	
 	private double side1, side2, side3;

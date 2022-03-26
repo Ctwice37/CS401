@@ -1,4 +1,4 @@
-package lesson7.lecture.equals.sameclass.theproblem;
+package LectureCode.src.lesson7.lecture.equals.sameclass.theproblem;
 
 public class Test {
 

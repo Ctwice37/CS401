@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.member.inner;
+package LectureCode.src.lesson7.lecture.reviewofinner.member.inner;
 class MyOuterClass {
 	MyInnerClass inner;
 	private String param;

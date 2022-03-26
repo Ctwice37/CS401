@@ -1,4 +1,4 @@
-package lesson8.lecture.functionalinterfaceannotation;
+package LectureCode.src.lesson8.lecture.functionalinterfaceannotation;
 
 @FunctionalInterface
 public interface Example2 {

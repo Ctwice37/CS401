@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/vsjava8 for more book information.
 ***/
-package lesson9.lecture.lazystream;
+package LectureCode.src.lesson9.lecture.lazystream;
 
 import java.util.List;
 import java.util.Arrays;

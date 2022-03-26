@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.oneone_restrict;
+package LectureCode.src.lesson2.lecture.unidirectional.oneone_restrict;
 import java.util.*;
 
 //not visible to outside

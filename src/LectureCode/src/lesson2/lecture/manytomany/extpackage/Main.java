@@ -1,4 +1,4 @@
-package lesson2.lecture.manytomany.extpackage;
+package LectureCode.src.lesson2.lecture.manytomany.extpackage;
 import java.util.*;
 
 import lesson2.lecture.manytomany.*;

@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethods;
+package LectureCode.src.lesson7.lecture.defaultmethods;
 
 public interface NameAddress {
 	String getFirstName();

@@ -1,4 +1,4 @@
-package lesson1.lecture.ooexample;
+package LectureCode.src.lesson1.lecture.ooexample;
 
 public class MyStringList {
 	private final int INITIAL_LENGTH = 4;

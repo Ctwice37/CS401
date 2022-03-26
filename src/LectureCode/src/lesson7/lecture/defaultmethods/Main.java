@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethods;
+package LectureCode.src.lesson7.lecture.defaultmethods;
 
 import java.util.ArrayList;
 import java.util.List;

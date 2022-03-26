@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethodrules.intfaceclash3;
+package LectureCode.src.lesson7.lecture.defaultmethodrules.intfaceclash3;
 
 public class Clss implements Sup1, Sup2{
 	//must implement

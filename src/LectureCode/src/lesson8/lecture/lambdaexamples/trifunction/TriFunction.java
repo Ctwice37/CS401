@@ -1,4 +1,4 @@
-package lesson8.lecture.lambdaexamples.trifunction;
+package LectureCode.src.lesson8.lecture.lambdaexamples.trifunction;
 
 @FunctionalInterface
 public interface TriFunction<S,T,U,R> {

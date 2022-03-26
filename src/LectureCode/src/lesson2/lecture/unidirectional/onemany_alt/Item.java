@@ -1,4 +1,4 @@
-package lesson2.lecture.unidirectional.onemany_alt;
+package LectureCode.src.lesson2.lecture.unidirectional.onemany_alt;
 
 public class Item {
 	String name;

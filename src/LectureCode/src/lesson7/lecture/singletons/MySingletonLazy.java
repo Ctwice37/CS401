@@ -1,4 +1,4 @@
-package lesson7.lecture.singletons;
+package LectureCode.src.lesson7.lecture.singletons;
 
 /** Singleton with lazy initialization. Not threadsafe */
 public class MySingletonLazy{

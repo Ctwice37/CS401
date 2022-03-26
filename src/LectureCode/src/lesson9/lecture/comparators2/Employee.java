@@ -1,4 +1,4 @@
-package lesson9.lecture.comparators2;
+package LectureCode.src.lesson9.lecture.comparators2;
 
 public class Employee {
 	String name;

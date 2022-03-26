@@ -1,4 +1,4 @@
-package lesson10.lecture.annotation;
+package LectureCode.src.lesson10.lecture.annotation;
 
 @BugReport(assignedTo="Corazza", severity=1)
 public class BadCode {

@@ -1,4 +1,4 @@
-package lesson8.lecture.comparator1;
+package LectureCode.src.lesson8.lecture.comparator1;
 
 import java.util.Comparator;
 

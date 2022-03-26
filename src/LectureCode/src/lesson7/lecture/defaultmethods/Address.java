@@ -1,4 +1,4 @@
-package lesson7.lecture.defaultmethods;
+package LectureCode.src.lesson7.lecture.defaultmethods;
 
 public class Address {
 	private String street1, street2, city, state, zip;

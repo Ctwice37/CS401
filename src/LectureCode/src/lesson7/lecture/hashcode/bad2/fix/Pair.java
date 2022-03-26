@@ -1,4 +1,4 @@
-package lesson7.lecture.hashcode.bad2.fix;
+package LectureCode.src.lesson7.lecture.hashcode.bad2.fix;
 
 import java.util.Objects;
 

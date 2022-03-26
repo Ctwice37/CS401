@@ -1,4 +1,4 @@
-package lesson10.lecture.exceptions3;
+package LectureCode.src.lesson10.lecture.exceptions3;
 
 import java.util.function.Function;
 

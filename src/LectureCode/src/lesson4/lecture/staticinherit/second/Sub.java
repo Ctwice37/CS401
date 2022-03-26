@@ -1,4 +1,4 @@
-package lesson4.lecture.staticinherit.second;
+package LectureCode.src.lesson4.lecture.staticinherit.second;
 
 @SuppressWarnings("static-access")
 //Shows that, although static methods are inherited,

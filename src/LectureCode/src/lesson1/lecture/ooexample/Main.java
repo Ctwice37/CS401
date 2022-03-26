@@ -1,4 +1,4 @@
-package lesson1.lecture.ooexample;
+package LectureCode.src.lesson1.lecture.ooexample;
 import java.util.Scanner;
 
 import lesson1.lecture.ooexample.employeeinfo.*;

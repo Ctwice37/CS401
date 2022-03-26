@@ -1,4 +1,4 @@
-package lesson7.lecture.reviewofinner.anonymous.inner;
+package LectureCode.src.lesson7.lecture.reviewofinner.anonymous.inner;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

@@ -1,9 +1,9 @@
-package lesson1.lecture.ooexample.employeeinfo;
+package LectureCode.src.lesson1.lecture.ooexample.employeeinfo;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-import lesson1.lecture.ooexample.MyStringList;
+import LectureCode.src.lesson1.lecture.ooexample.MyStringList;
 
 public class Employee {
 	private AccountList accounts; 

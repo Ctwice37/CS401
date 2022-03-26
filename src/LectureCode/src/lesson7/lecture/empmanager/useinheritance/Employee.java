@@ -1,4 +1,4 @@
-package lesson7.lecture.empmanager.useinheritance;
+package LectureCode.src.lesson7.lecture.empmanager.useinheritance;
 
 import java.time.LocalDate;
 

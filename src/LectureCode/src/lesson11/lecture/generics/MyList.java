@@ -1,4 +1,4 @@
-package lesson11.lecture.generics;
+package LectureCode.src.lesson11.lecture.generics;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package lesson9.lecture.lazystream;
+package LectureCode.src.lesson9.lecture.lazystream;
 
 import java.util.List;
 import java.util.stream.Collectors;

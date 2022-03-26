@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.addall;
+package LectureCode.src.lesson11.lecture.generics.addall;
 
 public class MyListImpl<T> implements MyList<T> {
 	private Object[] arr = new Object[10];

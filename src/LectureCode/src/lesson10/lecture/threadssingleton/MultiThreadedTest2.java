@@ -1,4 +1,4 @@
-package lesson10.lecture.threadssingleton;
+package LectureCode.src.lesson10.lecture.threadssingleton;
 
 /** Same as MultiThreadedTest but uses Singleton2 where counter is threadsafe */
 public class MultiThreadedTest2 {	

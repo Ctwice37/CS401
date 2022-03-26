@@ -1,4 +1,4 @@
-package lesson7.lecture.interfacestatic_clash;
+package LectureCode.src.lesson7.lecture.interfacestatic_clash;
 
 public interface Sup2 {
 	public static int myMethod() {

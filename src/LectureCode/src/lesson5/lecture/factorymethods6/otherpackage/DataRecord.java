@@ -1,4 +1,4 @@
-package lesson5.lecture.factorymethods6.otherpackage;
+package LectureCode.src.lesson5.lecture.factorymethods6.otherpackage;
 
 public class DataRecord {
 	String id;

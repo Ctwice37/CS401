@@ -1,4 +1,4 @@
-package lesson10.lecture.libcompanion;
+package LectureCode.src.lesson10.lecture.libcompanion;
 
 import java.util.ArrayList;
 import java.util.Comparator;

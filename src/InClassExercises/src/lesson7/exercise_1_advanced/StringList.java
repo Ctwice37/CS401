@@ -1,4 +1,4 @@
-package lesson7.exercise_1_advanced;
+package InClassExercises.src.lesson7.exercise_1_advanced;
 
 public interface StringList {
 	//uncomment these

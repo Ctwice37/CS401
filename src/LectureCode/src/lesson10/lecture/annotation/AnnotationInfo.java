@@ -1,4 +1,4 @@
-package lesson10.lecture.annotation;
+package LectureCode.src.lesson10.lecture.annotation;
 
 public class AnnotationInfo {
 	public static void main(String[] args) {

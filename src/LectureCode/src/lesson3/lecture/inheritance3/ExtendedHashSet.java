@@ -1,4 +1,4 @@
-package lesson3.lecture.inheritance3;
+package LectureCode.src.lesson3.lecture.inheritance3;
 
 import java.util.Collection;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package lesson3.lecture.personrole;
+package LectureCode.src.lesson3.lecture.personrole;
 
 public class Main {
 	/* Shows how a Person's role can be changed thanks to 

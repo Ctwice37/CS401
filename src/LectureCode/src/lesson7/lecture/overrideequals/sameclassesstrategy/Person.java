@@ -1,4 +1,4 @@
-package lesson7.lecture.overrideequals.sameclassesstrategy;
+package LectureCode.src.lesson7.lecture.overrideequals.sameclassesstrategy;
 
 
 public class Person {

@@ -1,4 +1,4 @@
-package lesson7.lecture.iterator;
+package LectureCode.src.lesson7.lecture.iterator;
 
 import java.util.*;
 import java.util.function.Consumer;

@@ -1,5 +1,5 @@
 //source code from the jdk
-package lesson7.lecture.enums.javalabel;
+package LectureCode.src.lesson7.lecture.enums.javalabel;
 
 public class Label  {
     public static final int LEFT 	= 0;

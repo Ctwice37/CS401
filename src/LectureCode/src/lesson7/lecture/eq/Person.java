@@ -1,4 +1,4 @@
-package lesson7.lecture.eq;
+package LectureCode.src.lesson7.lecture.eq;
 
 /** Shows what goes wrong if equals is not overridden properly */
 public class Person {

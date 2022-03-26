@@ -1,4 +1,4 @@
-package lesson4.lecture.staticinherit.first;
+package LectureCode.src.lesson4.lecture.staticinherit.first;
 
 public class Super {
 	static void print() {

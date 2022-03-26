@@ -1,4 +1,4 @@
-package lesson10.lecture.exceptions;
+package LectureCode.src.lesson10.lecture.exceptions;
 
 import java.io.BufferedReader;
 import java.io.File;

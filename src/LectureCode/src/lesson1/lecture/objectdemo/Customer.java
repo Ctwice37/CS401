@@ -1,4 +1,4 @@
-package lesson1.lecture.objectdemo;
+package LectureCode.src.lesson1.lecture.objectdemo;
 
 public class Customer {
 	private String name;

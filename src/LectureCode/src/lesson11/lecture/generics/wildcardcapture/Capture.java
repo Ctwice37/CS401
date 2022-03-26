@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.wildcardcapture;
+package LectureCode.src.lesson11.lecture.generics.wildcardcapture;
 
 import java.util.List;
 

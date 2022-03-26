@@ -1,4 +1,4 @@
-package lesson5.exercise_1;
+package InClassExercises.src.lesson5.exercise_1;
 
 import java.util.*;
 

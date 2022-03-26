@@ -1,4 +1,4 @@
-package lesson10.lecture.exceptions2;
+package LectureCode.src.lesson10.lecture.exceptions2;
 
 @FunctionalInterface
 public interface FunctionWithException<T, R> {

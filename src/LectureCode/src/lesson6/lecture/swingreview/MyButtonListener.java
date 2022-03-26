@@ -1,4 +1,4 @@
-package lesson6.lecture.swingreview;
+package LectureCode.src.lesson6.lecture.swingreview;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

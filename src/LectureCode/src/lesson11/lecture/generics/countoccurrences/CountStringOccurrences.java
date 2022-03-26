@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.countoccurrences;
+package LectureCode.src.lesson11.lecture.generics.countoccurrences;
 
 public class CountStringOccurrences {
 	public static int countOccurrences(String[] arr, String target) {

@@ -1,4 +1,4 @@
-package lab_app;
+package ProjectSwingSampleCode.src.lab_app;
 
 public class User {
 	public User(String username, String pwd, Auth auth) {

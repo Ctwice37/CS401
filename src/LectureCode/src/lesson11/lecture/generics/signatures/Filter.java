@@ -1,4 +1,4 @@
-package lesson11.lecture.generics.signatures;
+package LectureCode.src.lesson11.lecture.generics.signatures;
 import java.util.*;
 import java.util.stream.Collectors;
 // Stream<T> filter(Predicate<? super T> predicate)

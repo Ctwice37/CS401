@@ -1,4 +1,4 @@
-package lesson9.exercise_3;
+package InClassExercises.src.lesson9.exercise_3;
 import java.util.*;
 public class Main {
 

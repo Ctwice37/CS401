@@ -1,4 +1,4 @@
-package lesson2.lecture.birdir.onetoone_factory2;
+package LectureCode.src.lesson2.lecture.birdir.onetoone_factory2;
 import java.util.*;
 
 public class ShoppingCart {

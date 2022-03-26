@@ -1,4 +1,4 @@
-package lesson7.exercise_2;
+package InClassExercises.src.lesson7.exercise_2;
 
 public class Constants {
 	public static final String COMPANY = "Microsoft";

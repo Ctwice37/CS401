@@ -1,4 +1,4 @@
-package lesson7.exercise_3;
+package InClassExercises.src.lesson7.exercise_3;
 
 import java.util.ArrayList;
 import java.util.List;

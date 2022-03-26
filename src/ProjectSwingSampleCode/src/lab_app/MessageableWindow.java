@@ -1,4 +1,4 @@
-package lab_app;
+package ProjectSwingSampleCode.src.lab_app;
 
 import static lab_app.BookClub.statusBar;
 

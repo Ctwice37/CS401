@@ -1,14 +1,14 @@
-package lesson5.lecture.factorymethods3.business.dao;
+package LectureCode.src.lesson5.lecture.factorymethods3.business.dao;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import lesson5.lecture.factorymethods3.business.Address;
-import lesson5.lecture.factorymethods3.dataaccess.Dao;
-import lesson5.lecture.factorymethods3.dataaccess.DataAccess;
-import lesson5.lecture.factorymethods3.dataaccess.DataAccessFactory;
+import LectureCode.src.lesson5.lecture.factorymethods3.business.Address;
+import LectureCode.src.lesson5.lecture.factorymethods3.dataaccess.Dao;
+import LectureCode.src.lesson5.lecture.factorymethods3.dataaccess.DataAccess;
+import LectureCode.src.lesson5.lecture.factorymethods3.dataaccess.DataAccessFactory;
 
 public class AddressDao implements Dao {
 	DataAccess da = null;

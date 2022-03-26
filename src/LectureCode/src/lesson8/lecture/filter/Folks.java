@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/vsjava8 for more book information.
 ***/
-package lesson8.lecture.filter;
+package LectureCode.src.lesson8.lecture.filter;
 
 import java.util.List;
 import java.util.Arrays;

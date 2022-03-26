@@ -1,4 +1,4 @@
-package lesson9.lecture.flatmapstream;
+package LectureCode.src.lesson9.lecture.flatmapstream;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lesson2.lecture.birdir.onetoone_factory;
+package LectureCode.src.lesson2.lecture.birdir.onetoone_factory;
 
 public class Item {
 	String name;
